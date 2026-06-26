@@ -1,2 +1,3 @@
-[# single-page-cv
-](https://ziennyx.github.io/single-page-cv/)
+# single-page-cv
+
+Project URL: https://ziennyx.github.io/single-page-cv/
